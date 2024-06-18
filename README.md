@@ -1,4 +1,4 @@
-# apppets
+# appets
 
 A new Flutter project.
 
